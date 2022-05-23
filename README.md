@@ -1,7 +1,7 @@
 # Hello World 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razan-alsubaie-55bba9204/)
-![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razansalah41@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Razan_AL-subaie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razan-alsubaie-55bba9204/)
+![Gmail Badge](https://img.shields.io/badge/-razansalah41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razansalah41@gmail.com)
 
 ### :woman_technologist: About Me :
 
