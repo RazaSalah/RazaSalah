@@ -1,7 +1,7 @@
 # Hello World 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razan-alsubaie-55bba9204/)]
-[![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razansalah41@gmail.com)]
+![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razan-alsubaie-55bba9204/)
+![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razansalah41@gmail.com)
 
 ### :woman_technologist: About Me :
 
@@ -21,8 +21,7 @@ https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=RazaSalah
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RazaSalah&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RazaSalah&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 RazaSalah/RazaSalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
